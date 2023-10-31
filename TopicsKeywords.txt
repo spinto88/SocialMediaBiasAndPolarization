@@ -1,42 +1,42 @@
 
 Main keywords of Topics  
 
-Politics BA Province Topic:
+Politics BA Province (Topic 0):
 vidal, provincia, gobernadora, kicillof, bonaerense, eugenia, maría, buenos, aires, campaña
 
 
-Economy/Dolar Topic:
+Economy/Dolar (Topic 1):
 dólar, banco, mercado, central, tasa, dólares, deuda, fmi, reserva, cambiario
 
 
-Justice Topic:
+Justice (Topic 2):
 causa, juicio, tribunal, oral, kirchner, federal, cristina, obra, fiscal, báez
 
 
-Politics CL Topic:
+Politics CL (Topic 3):
 fernández, alberto, cristina, kirchner, candidato, frente, fórmula, presidencial, presidente, campaña
 
 
-3rd Party Topic:
+3rd Party (Topic 4):
 lavagna, massa, alternativa, federal, schiaretti, gobernador, urtubey, espacio, pichetto, sergio
 
 
-Wage/Inflation Topic:
+Wage/Inflation (Topic 5):
 gobierno, empresa, sector, inflación, trabajador, precio, aumento, salario, medida, pobreza
 
 
-Politics CR Topic:
+Politics CR (Topic 6):
 macri, presidente, mauricio, gobierno, país, argentina, jefe, argentino, mandatario, peña
 
 
-Elections Topic:
+Elections (Topic 7):
 voto, elección, electoral, votar, frente, nacional, candidato, paso, resultado, provincial
 
 
-Trash Topic:
+Trash (Topic 8):
 clarín, alberto, edición, fernández, qatar, ministerio, juramento, presidente, inflación, expresidente
 
 
-Gossip & Sport Topic:
+Gossip & Sport (Topic 9):
 mujer, persona, vida, pasar, boca, vivir, país, gente, social, policía
 
