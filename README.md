@@ -1,6 +1,6 @@
 # SocialMediaBiasAndPolarization
 
-The data is avaiable in https://osf.io/sxwmj/ 
+The data is avaiable in https://osf.io/sxwmj/. Tweet IDs and user IDs are hashed for privacy reasons.
 
 The figures depicted in http://arxiv.org/abs/2310.08701 are replicated in the following notebooks:
 
